@@ -1,0 +1,10 @@
+C:\Users\CealeR\AppData\Local\Temporary Projects\Conectado\bin\Debug\Conectado.exe.config
+C:\Users\CealeR\Documents\Clase Lunes 2015 5to ciclo\Conectado\Conectado\bin\Debug\Conectado.exe.config
+C:\Users\CealeR\Documents\Clase Lunes 2015 5to ciclo\Conectado\Conectado\bin\Debug\Conectado.exe
+C:\Users\CealeR\Documents\Clase Lunes 2015 5to ciclo\Conectado\Conectado\bin\Debug\Conectado.pdb
+C:\Users\CealeR\Documents\Clase Lunes 2015 5to ciclo\Conectado\Conectado\obj\Debug\Conectado.Form1.resources
+C:\Users\CealeR\Documents\Clase Lunes 2015 5to ciclo\Conectado\Conectado\obj\Debug\Conectado.Properties.Resources.resources
+C:\Users\CealeR\Documents\Clase Lunes 2015 5to ciclo\Conectado\Conectado\obj\Debug\Conectado.csproj.GenerateResource.Cache
+C:\Users\CealeR\Documents\Clase Lunes 2015 5to ciclo\Conectado\Conectado\obj\Debug\Conectado.exe
+C:\Users\CealeR\Documents\Clase Lunes 2015 5to ciclo\Conectado\Conectado\obj\Debug\Conectado.pdb
+C:\Users\CealeR\Documents\Clase Lunes 2015 5to ciclo\Conectado\Conectado\obj\Debug\Conectado.csprojResolveAssemblyReference.cache
